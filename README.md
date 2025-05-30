@@ -10,7 +10,6 @@ This project helps you classify stars or celestial objects using spectral data e
 - Uses machine learning for classification  
 - Interactive analysis and visualization  
 - Clean and beginner-friendly
-
 ---
 
 ## 🧰 Getting Started
@@ -29,17 +28,14 @@ Make sure you have:
 - matplotlib  
 - seaborn  
 - scikit-learn  
-
 ---
 
 ## 🔧 Installation
 
 1. **Clone the repository**:
-
    ```bash
    git clone https://github.com/AhmedEndrisH/Astronomical-spectral-classification
    cd Astronomical-spectral-classification
-
 
 ## ⚙️ Getting Started
 
@@ -56,10 +52,10 @@ Follow the steps below to set up the project locally:
 
 1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/AhmedEndrisH/Astronomical-spectral-classification
+```bash
+git clone https://github.com/AhmedEndrisH/Astronomical-spectral-classification
 Navigate to the project directory:
- ```
+```
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements or new features.
 
