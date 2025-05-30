@@ -8,7 +8,6 @@ This project helps you classify stars or celestial objects using spectral data e
 
 - Easy setup with Jupyter Notebook  
 - Uses machine learning for classification  
-- Interactive analysis and visualization  
 - Clean and beginner-friendly
 ---
 
