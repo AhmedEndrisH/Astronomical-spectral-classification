@@ -37,8 +37,3 @@ Make sure you have:
 git clone https://github.com/AhmedEndrisH/Astronomical-spectral-classification
 Navigate to the project directory:
 ```
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements or new features.
-
-## 📄 License
-This project is licensed under the MIT License.
